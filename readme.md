@@ -1,2 +1,2 @@
 ### My Resume
-[Click to visit](https://i-am-xu-wang.github.io/xu-wang-resume)
+[Click to view](https://i-am-xu-wang.github.io/xu-wang-resume)
